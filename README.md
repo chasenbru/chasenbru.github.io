@@ -1,3 +1,1 @@
-# chasenbru.github.io
-Personal Website
-Chasen
+# Chasen's Personal Website
