@@ -3,5 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Chasen Brutocao's homepage
 description: Bookmark this to keep an eye on my project updates!
-site:
-  logo: assets/img/ChasenBrutocao_photo.jpg
+logo: assets/img/ChasenBrutocao_photo.jpg
