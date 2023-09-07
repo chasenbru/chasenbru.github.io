@@ -2,7 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: 
-description: I am a technology consultant that helps businesses implement data-driven technology solutions. I specialize in the areas of business intelligence, data analytics, and data engineering. My tech stack includes Tableau, Alteryx, Snowflake, AWS, SQL, and Python. 
-
-I received my Bachelor of Arts in Economics and Chinese with a minor in Accounting from the University of Notre Dame in 2021.  
+description: I am a technology consultant that helps businesses implement data-driven technology solutions. I specialize in the areas of business intelligence, data analytics, and data engineering. My tech stack includes Tableau, Alteryx, Snowflake, AWS, SQL, and Python. I received my Bachelor of Arts in Economics and Chinese with a minor in Accounting from the University of Notre Dame in 2021.  
 logo: assets/img/ChasenBrutocao_photo.jpg
