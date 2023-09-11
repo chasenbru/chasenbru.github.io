@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: 
-description: My name is Chasen Brutocao and welcome to my page! I am a technology consultant that helps businesses implement data-driven technology solutions. I specialize in the areas of business intelligence, data analytics, and data engineering. Some of the technologies and programming languages I use include Tableau, Alteryx, Snowflake, AWS, SQL, and Python. I received my Bachelor of Arts in Economics and Chinese with a minor in Accounting from the University of Notre Dame in 2021. I built this page using HTML/CSS, Jekyll, and Github.
+description: I am a technology consultant that helps businesses implement data-driven technology solutions. I specialize in business intelligence, data analytics, and data engineering. Some of the technologies and programming languages I use include Tableau, Alteryx, Snowflake, AWS, SQL, and Python. I received my BA in Economics and Chinese with a minor in Accounting from the University of Notre Dame in 2021. I built this page using HTML/CSS, Jekyll, and Github.
 logo: assets/img/ChasenBrutocao_photo.jpg
