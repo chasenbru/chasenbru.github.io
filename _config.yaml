@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: 
-description: I am a results-driven consultant dedicated to guiding enterprises in the seamless integration of data-driven technology solutions. My expertise lies in the domains of business intelligence, data analytics, and data engineering. My current technical toolkit includes Tableau, Alteryx, Snowflake, AWS, SQL, and Python. I hold a Bachelor of Arts degree in Economics and Chinese, supplemented by a minor in Accounting, conferred by the University of Notre Dame in 2021. I built this webpage with HTML/CSS, Jekyll, and GitHub.
+description: I am a results-driven consultant dedicated to guiding enterprises in the seamless integration of data-driven technology solutions. My expertise lies in the domains of business intelligence, data analytics, and data engineering. My current technical toolkit includes Tableau, Alteryx, Snowflake, AWS, SQL, and Python. I hold a Bachelor of Arts degree in Economics and Chinese, supplemented by a minor in Accounting, conferred by the University of Notre Dame in 2021.
 logo: assets/img/ChasenBrutocao_photo.jpg
