@@ -24,6 +24,12 @@
           filter: blur(1px); /* Adjust the value to control the amount of blur */
       }
     </style>
+    <style>
+      .custom-link {
+          color: blue; /* Text color of the link */
+          text-decoration: underline; /* Remove the default underline */
+      }
+    </style>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -58,10 +64,10 @@
       <section>
         <h1 style="font-size: 30px; color: #003366; text-align: center;">Personal Projects</h1>
         <hr>
-        <h2 id="Personal Projects">Personal Projects
+        <h2 id="Spotify API, Python, and Tableau">Personal Projects
         </h2>
         <p>
-          "Using Python to Extract Data from the Spotify API and Visualize Results in Tableau."
+          "To better understand my music taste and preferences, I used Python and Pandas to extract data from the Spotify API. Then, I visualized the results in Tableau. Check out the dashboard <a href="https://public.tableau.com/views/VisualizingaSamplingofPersonalSpotifyData/Profile?:language=en-US&:display_count=n&:origin=viz_share_link" class="custom-link">here</a>!"
           <div class="image-container-spotify"></div>
         </p>
 
