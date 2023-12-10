@@ -25,6 +25,19 @@
           background-size: cover;
           background-position: center top; /* This positions the top of the image in the container */
       }
+      /* Container styles */
+      .container {
+          max-width: 800px; /* Set the maximum width of the container */
+          margin: 0 auto;   /* Center the container horizontally */
+          padding: 20px;     /* Add some padding for better aesthetics */
+      }
+      /* Image styles */
+      .container img {
+          max-width: 100%;   /* Make the image fill its container */
+          height: auto;      /* Maintain the aspect ratio */
+          display: block;    /* Remove extra space below inline images */
+          margin: 0 auto;     /* Center the image within the container */
+      }
     </style>
     <style>
       .blurred-image {
@@ -74,7 +87,9 @@
         <h2 id="SEC EDGAR API, Python, and Plotly">SEC EDGAR API, Python, and Plotly</h2>
         <p>
           For this project, I utilized the Securities and Exchange Commission's EDGAR filing database, Python, and Plotly to visualize Apple's FY22 income statement.  I extracted key financial metrics from the EDGAR API and used Python to transform the data and create a Sankey diagram. Check out the Github repository <a href="https://github.com/chasenbru/SEC-EDGAR-API-Sankey-IncomeStatement" class="custom-link">here</a>!  
-          <div class="image-container-income-statement"></div>
+          <div class="container">
+            <img src="assets/img/Apple-FY22-IncomeStatement.png">
+          </div>
         </p>
         <hr>
         <h2 id="Spotify API, Python, and Tableau">Spotify API, Python, and Tableau</h2>
